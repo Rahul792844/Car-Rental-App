@@ -12,6 +12,7 @@ namespace Car_Rental_App.Models
 
         public string LicenceNo { get; set; }
 
+        public string oo { set; get; }
         public string AddressLine1 { get; set; }
 
 
